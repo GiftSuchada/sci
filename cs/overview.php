@@ -1,23 +1,44 @@
-<!doctype html>
-<html lang="en">
+<!-- content here -->
 
-<head>
-
-    <?php include('../components/style.php'); ?>
-</head>
-
-<body>
-
-    <?php include('../components/navbar.php'); ?>
-    <div class="container">
-        <!-- content here -->
-        <h1>Hello World !!!</h1>
-
-
-        <!-- end content here -->
+<!-- start of content , see end in footer -->
+<div class="content"><div class="container">
+   <br />
+   <h2>รายละเอียดหลักสูตร</h2>
+   <hr>
+       <h4> ชื่อสถาบันอุดมศึกษา : มหาวิทยาลัยราชภัฏวไลยอลงกรณ์ ในพระบรมราชูปถัมภ์ จังหวัดปทุมธานี </h4>
+	   <h4> คณะ : วิทยาศาสตร์และเทคโนโลยี </h4>
+	   <h4> รหัสหลักสูตร	:    25471531100273   </h4>
+	   <h4> ชื่อหลักสูตร </h4> 
+	   <a>ภาษาไทย	:    หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาวิทยาการคอมพิวเตอร์</a><br />
+	   <a>ภาษาอังกฤษ	:    Bachelor of Science Program in Computer Science</a><br />
+       <?php include('../components/facebook.php'); ?>
+	   <p></p> 
+	   <h4> ชื่อปริญญาและสาขาวิชา </h4>
+	   <a>ภาษาไทย	 ชื่อเต็ม :    วิทยาศาสตรบัณฑิต (วิทยาการคอมพิวเตอร์)</a><br />
+	   <a>ชื่อย่อ  :    วท.บ. (วิทยาการคอมพิวเตอร์) </a><br />
+	   <a>ภาษาอังกฤษ	 ชื่อเต็ม :    Bachelor of Science (Computer Science)</a><br />
+	   <a>ชื่อย่อ  :    B.Sc. (Computer Science)</a><br />
+	   <p></p> 
+	   <h4> วันที่อนุมัติจากสำนักงานคณะกรรมการการอุดมศึกษา (สกอ.) :	 3 พฤษภาคม 2565 </h4>
+	   <h4> วันที่อนุมัติจากคณะกรรมการข้าราชการพลเรือน (กพ.) :	14 พฤศจิกายน 2565</h4>
+	   <h4> วันที่อนุมัติจากสำนักงานคณะกรรมการข้าราชการครูและบุคลากรทางการศึกษา (กคศ.) : 28 พฤศจิกายน 2565 </h4>
+	   <p></p>
+	   <h4> อาชีพที่สามารถประกอบได้หลังสำเร็จการศึกษา</h4>
+	  <a>- นักเขียนโปรแกรม (Programmer)</a><br />
+	   <a>- นักพัฒนาเว็บไซต์ (Website Developer)</a><br />
+       <a>- ผู้ดูแลระบบเครือข่าย (Network Administrator)</a><br />
+       <a>- ผู้ดูแลระบบฐานข้อมูล (Database Administrator)</a><br />
+       <a>- ผู้บริหารโครงการซอฟต์แวร์ (Software Project Manager)</a><br />
+       <a>- นักวิเคราะห์และออกแบบระบบงานสารสนเทศ (Computer System Analyst)</a><br />
+       <a>- นักวิชาการวิทยาการคอมพิวเตอร์ (Computer Academic)</a><br />
+       <a>- นักวิทยาการคอมพิวเตอร์ หรือนักวิทยาศาสตร์คอมพิวเตอร์ (Computer Scientist)</a><br />
+       <a>- นักวิชาชีพในสถานประกอบการที่มีการใช้คอมพิวเตอร์ (Computer Technician)</a><br />
+       <a>- ผู้ประกอบอาชีพอิสระ (Self-employed)</a><br />
+</div>
     </div>
-    <?php include('../components/footer.php'); ?>
-    <?php include('../components/script.php'); ?>
-</body>
 
-</html>
+
+
+
+
+<!-- end content here -->
